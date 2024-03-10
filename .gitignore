@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+node_modules/
+.env
+.env.local
+.env.prod
+.vs/
+tests/services/storage/test.txt
+files/
+sample*.xlsx
+*.log
+*.zip
+package-lock.json
+yarn.lock
+dumps/
+dist/
+dev_envyte.key.json
